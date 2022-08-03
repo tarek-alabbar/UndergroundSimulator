@@ -1,0 +1,15 @@
+D:\Projects\UndergroundSimulator\bin\Debug\net6.0\UndergroundSimulator.exe
+D:\Projects\UndergroundSimulator\bin\Debug\net6.0\UndergroundSimulator.deps.json
+D:\Projects\UndergroundSimulator\bin\Debug\net6.0\UndergroundSimulator.runtimeconfig.json
+D:\Projects\UndergroundSimulator\bin\Debug\net6.0\UndergroundSimulator.dll
+D:\Projects\UndergroundSimulator\bin\Debug\net6.0\UndergroundSimulator.pdb
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\UndergroundSimulator.csproj.AssemblyReference.cache
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\UndergroundSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\UndergroundSimulator.AssemblyInfoInputs.cache
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\UndergroundSimulator.AssemblyInfo.cs
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\UndergroundSimulator.csproj.CoreCompileInputs.cache
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\UndergroundSimulator.dll
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\refint\UndergroundSimulator.dll
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\UndergroundSimulator.pdb
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\UndergroundSimulator.genruntimeconfig.cache
+D:\Projects\UndergroundSimulator\obj\Debug\net6.0\ref\UndergroundSimulator.dll
